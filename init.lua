@@ -2,3 +2,5 @@
 require("config.lazy")
 
 require("custom").setup()
+
+vim.wo.wrap = false
